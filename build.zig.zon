@@ -1,0 +1,22 @@
+.{
+    .authors = .{
+        "Matt Wilson <matthew@synesis.com.au>",
+    },
+    .description = "Name-and-scaffold stake for Diagnosticism, for Zig",
+    .fingerprint = 0xcb5b11ccee5be4ce,
+    .name = .diagnosticism,
+    .paths = .{
+        "AUTHORS.md",
+        "CHANGES.md",
+        "EXAMPLES.md",
+        "LICENSE",
+        "NEWS.md",
+        "README.md",
+        "TODO.md",
+        "build.zig",
+        "build.zig.zon",
+        "examples",
+        "src",
+    },
+    .version = "0.0.0",
+}
